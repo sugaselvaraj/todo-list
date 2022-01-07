@@ -1,0 +1,30 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'EB Garamond', serif;
+}
+
+h1 {
+    margin: 40px;
+}
+
+#todo-input {
+    width: 40%;
+    margin: 0 auto;
+    margin-right: 5px;
+    display: inline-block;
+}
+
+#add-todo, #remove-all {
+   margin: 0 5px;
+   vertical-align:initial;
+}
+
+.btn {
+    margin: 20px 10px;
+}
+
+ul {
+    margin-top: 30px;
+    list-style-type: none;
+}
